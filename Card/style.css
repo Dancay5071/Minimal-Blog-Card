@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+body {
+    background-color: #FAFAF9;
+    font-family: 'Sora';
+}
+.card{
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+}
+div{
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+}
+img{
+    border-radius: 15px;
+    margin: 16px;
+    max-width: 336px;
+}
+hr{
+  border-color: #E5EAF0;
+  background-color: #E5EAF0;
+  color:#E5EAF0;
+
+}
+p{
+    color: #6C727F;
+    margin-top: 16px;
+    max-width: 336px;
+    font-size: 14px;
+    margin-left: 16px;
+}
+h1{
+    font-size: 18px;
+    color:#20293A;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    margin-left: 16px;
+}
+.desing{
+    color: #883AE1;
+    background-color: #E6D6FC;
+    font-size: 10px;
+    border-radius: 25px;
+    position: absolute;
+    margin-top: -16px;
+    margin-bottom: -16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+
+}
+
+.autor{
+    font-size: 12px;
+}
